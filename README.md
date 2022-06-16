@@ -21,7 +21,7 @@ NestJS REST API where you can CRUD your bookmarks.
 Clone this repository and install dependencies
 
 ```bash
-$ git clone git@github.com:Jonas56/bookmark-api.git
+$ git clone git@github.com:username/bookmark-api.git
 $ npm install
 ```
 
